@@ -1,1 +1,14 @@
-@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Neucha&display=swap');
+
+body {
+    margin: 10px;
+    background-color: #eeeeee;
+}
+
+#root {
+    background-color: #fff;
+}
+
+a:hover {
+    text-decoration: none;
+}
